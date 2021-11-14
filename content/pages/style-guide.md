@@ -2,7 +2,7 @@
 title: Style Guide
 seo:
   title: Dr. Mashiur Rahman
-  description: A reference for suggested typographic treatment and styles for your content
+  description: Official website of Dr. Mashiur Rahman
   extra:
     - name: 'og:type'
       value: website
