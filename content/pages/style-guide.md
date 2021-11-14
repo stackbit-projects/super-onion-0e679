@@ -1,7 +1,7 @@
 ---
 title: Style Guide
 seo:
-  title: Theme Style Guide
+  title: Dr. Mashiur Rahman
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
