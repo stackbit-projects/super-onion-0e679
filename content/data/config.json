@@ -16,11 +16,6 @@
                 "style": "link"
             },
             {
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
                 "label": "Awards",
                 "url": "/style-guide",
                 "style": "link"
@@ -36,6 +31,11 @@
                 "label": "Contact Us",
                 "url": "/contact",
                 "style": "primary"
+            },
+            {
+                "label": "About",
+                "url": "/about",
+                "style": "link"
             }
         ],
         "logo_alt": "Dr. Mashiur Rahman"
