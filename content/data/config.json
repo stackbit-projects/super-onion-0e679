@@ -30,7 +30,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "/images/mashiur_profile.png"
     },
     "footer": {
         "has_nav": true,
