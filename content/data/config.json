@@ -28,14 +28,14 @@
                 "no_follow": false
             },
             {
-                "label": "Contact Us",
-                "url": "/contact",
-                "style": "primary"
-            },
-            {
                 "label": "About",
                 "url": "/about",
                 "style": "link"
+            },
+            {
+                "label": "Contact Us",
+                "url": "/contact",
+                "style": "primary"
             }
         ],
         "logo_alt": "Dr. Mashiur Rahman"
