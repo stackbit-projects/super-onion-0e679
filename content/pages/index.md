@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Welcome to Dr Mashiur Rahman's page
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      I am a Digital Healthcare specialist and serving the healthcare with
+      digital technologies.
     actions:
       - label: Learn More
         url: /features
